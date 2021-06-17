@@ -74,6 +74,7 @@ nav{
 }
 #ancorasDiv3{
 	background-color: #3333aa;
+	border-radius: 5px
 }
 #imgSecondC{
 	width: 237px;
@@ -84,7 +85,8 @@ nav{
 }
 #imagemEquipe{
 	border-radius: 50%;
-	width: 50%;
+	width: 35%;
+	margin-bottom: 30px;
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: Square-Light;
@@ -151,4 +153,26 @@ p{
 .centralizar{
 	margin: auto; 
 	text-align: center;
+}
+
+#pSegundaParte{
+	text-align: justify; 
+	width: 50%; 
+	margin-left: 15%;
+}
+
+.h4Projetos{
+	border-radius: 0 10px 0 10px;
+	text-align: center;
+}
+
+#spanQuartaParte{
+	border-radius: 5px; 
+	float: right; 
+	margin-right: 16%; 
+	margin-top: 25px
+}
+
+#imgTerceiroC{
+	width: 85%;
 }
